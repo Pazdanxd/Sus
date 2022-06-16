@@ -9,7 +9,7 @@ kaboom({
 });
 
 function loadSprites(){
-    loadSprite("sus", "../sprites/sus.png")
+    loadSprite("sus", "/../sprites/sus.png")
 }
 
 function __init__(){
